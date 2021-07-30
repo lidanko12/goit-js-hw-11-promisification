@@ -7,4 +7,4 @@ const t=(t,a)=>Math.floor(Math.random()*(a-t+1)+t),a=(a,n,o)=>{const c=t(200,500
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/task1.js"),require("./js/task2.js"),require("./js/task3.js");
 },{"./js/task1.js":"u2QS","./js/task2.js":"n9ff","./js/task3.js":"T9OW"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.5a08a7cc.js.map
+//# sourceMappingURL=/goit-js-hw-11-promisification/src.5a08a7cc.js.map
